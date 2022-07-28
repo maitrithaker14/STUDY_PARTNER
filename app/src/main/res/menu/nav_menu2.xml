@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/profile_drawer"
+        android:title="EDIT PROFILE"
+        android:icon="@drawable/ic_person"
+        />
+
+    <item
+        android:id="@+id/quiz_drawer"
+        android:title="QUIZES"
+        android:icon="@drawable/ic_quiz"
+        />
+
+    <item
+        android:id="@+id/ask_me_drawer"
+        android:title="ASK ME"
+        android:icon="@drawable/ic_ask"
+        />
+
+    <item
+        android:id="@+id/logout_drawer"
+        android:title="LOGOUT"
+        android:icon="@drawable/logout_img"
+        />
+
+</menu>

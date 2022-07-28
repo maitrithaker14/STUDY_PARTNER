@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/drawable-v24/default_option_border.xml" value="0.118" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/drawable-v24/selector.xml" value="0.124" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/drawable/icon_delete.xml" value="0.107" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/drawable/navigation_round.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_add_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_askme.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_bottom_nav.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_create_sub_todo.xml" value="0.1921875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_drawer.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_drawer2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_forgot_password.xml" value="0.1921875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_login.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_main.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_mytaskhp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_new_post.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_profilesetup.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_questions.xml" value="0.1921875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_quizes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_sign_up.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/activity_update_task.xml" value="0.1921875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/addtask.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/app_bar_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/blog_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/content_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/fragment_askme.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/fragment_mytask.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/fragment_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/fragment_quizes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/item_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/my_blog_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/nav_header2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/nav_header_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/layout/update_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/menu/drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/StudyPartnerOld/app/src/main/res/menu/nav_menu2.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
